@@ -1,4 +1,4 @@
-# <h1 align="center">💜 Atika AI Portfolio</h1>
+# <h1 align="center">Hi, I'm Atika Mughal</h1>
 
 <h3 align="center">
 Artificial Intelligence Student | Developer | Problem Solver | Lifelong Learner
