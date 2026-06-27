@@ -154,7 +154,7 @@ Atika_AI_Portfolio/
 <img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_FACEBOOK_PROFILE_LINK">
+<a href="https://www.facebook.com/atika.mughal.125">
 <img src="https://img.shields.io/badge/Facebook-6A5ACD?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
