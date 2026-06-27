@@ -96,8 +96,6 @@ Evaluation
 
 The trained model successfully predicts the toxicity of drug compounds based on the provided dataset. Model performance was evaluated using standard classification metrics such as accuracy and prediction outcomes.
 
-> *You can update this section later by adding your model's actual accuracy, confusion matrix, precision, recall, and F1-score.*
-
 ---
 
 ## 🚀 Future Improvements
