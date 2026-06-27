@@ -150,7 +150,7 @@ Atika_AI_Portfolio/
 <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_PROFILE_LINK">
+<a href="https://www.instagram.com/atika_mughal12">
 <img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
