@@ -1,0 +1,3 @@
+CC = gcc
+CFLAGS = -Wall -std=c11 -02
+TARGET = Empty_
